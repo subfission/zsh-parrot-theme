@@ -2,7 +2,7 @@
 
 theme_name=parrot
 theme_file=$theme_name.zsh-theme
-oh_my_zsh_themes_folder=${HOME}/.oh-my-zsh/themes
+oh_my_zsh_themes_folder=${HOME}/.oh-my-zsh/custom/themes
 
 if [ ! -d $oh_my_zsh_themes_folder ]; then
     echo "ERROR: $oh_my_zsh_themes_folder not found."
